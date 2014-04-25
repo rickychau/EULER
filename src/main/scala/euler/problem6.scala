@@ -1,3 +1,5 @@
+package euler
+
 object problem6 {
   def main(args: Array[String]) = {
     var dif: Int = 0

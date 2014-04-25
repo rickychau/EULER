@@ -1,4 +1,5 @@
-import collection.mutable
+package euler
+
 object problem14 {
 
   def main(args: Array[String]) = {

@@ -1,3 +1,5 @@
+package euler
+
 import collection.mutable
 object problem16 {
   def main(args: Array[String]) = {

@@ -1,3 +1,5 @@
+package euler
+
 import collection.mutable
 object problem4 {
 

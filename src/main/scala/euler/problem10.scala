@@ -1,4 +1,5 @@
-import collection.mutable
+package euler
+
 import math._
 
 
@@ -15,6 +16,7 @@ object problem10 {
     while (i < upperb){
       if (TestPrime(i))
         ssum += i
+    i+=1
     }
     ssum
   }

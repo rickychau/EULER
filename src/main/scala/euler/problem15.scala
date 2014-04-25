@@ -1,3 +1,5 @@
+package euler
+
 object problem15 {
 
   def main(args: Array[String]) = {

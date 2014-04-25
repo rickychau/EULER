@@ -1,3 +1,5 @@
+package euler
+
 object problem9 {
 
   def main(args: Array[String]) = {

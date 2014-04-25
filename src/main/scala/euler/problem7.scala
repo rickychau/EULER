@@ -1,4 +1,5 @@
-import math._
+package euler
+
 object problem7 {
 
   def main(args: Array[String]) = {

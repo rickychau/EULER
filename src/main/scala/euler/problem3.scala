@@ -1,3 +1,5 @@
+package euler
+
 import math._
 
 object problem3 {
